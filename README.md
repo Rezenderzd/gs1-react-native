@@ -100,7 +100,7 @@ Escaneie o QR Code exibido no terminal utilizando o aplicativo Expo Go para roda
 
 Clique no link abaixo para assistir ao vídeo de até 3 minutos demonstrando todas as telas e funcionalidades principais do app SEME:
 
-▶️ [Clique aqui para assistir à demonstração da solução](https://youtube.com/...)
+▶️ [Clique aqui para assistir à demonstração da solução](https://youtu.be/PNL_HR7IILA)
 
 ## 📄 Licença
 
