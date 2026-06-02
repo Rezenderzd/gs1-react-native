@@ -9,15 +9,15 @@
 
 ## 📋 Descrição
 
-O **SEME (Sistema de Estatística de Missões Espaciais)** é um aplicativo mobile desenvolvido com React Native e Expo focado no monitoramento preditivo e gerenciamento de indicadores críticos em operações orbitais simuladas. A plataforma centraliza dados vitais de telemetria — como níveis de Oxigênio ($O_2$), porcentagem de uso de turbinas, estabilidade de energia e latência de comunicação —, transformando dados brutos de sensores em dashboards analíticos em tempo real. O grande diferencial do SEME está na sua interface altamente intuitiva e na lógica embarcada para predição de riscos e geração automática de alertas críticos, mitigando falhas humanas e otimizando a tomada de decisões em ambientes aeroespaciais severos.
+O **SEME (Sistema de Estatística de Missões Espaciais)** é um aplicativo mobile desenvolvido com React Native e Expo focado em auxiliar profissionais a atualizarem os valores de itens presentes em  missões espaciais, como H2O, O2, Combustível, entre outros. O intuito é facilitar a visualização dos dados por parte desses profissionais e ajudá-los a ter um maior controle dos dados presentes na missão.
 
 ---
 
 ## 👥 Equipe
 
-* **Integrante 1:** Fernando Caires Silva - RM: 563415
-* **Integrante 2:** Guilherme Martins Rezende - RM: 563500
-* **Integrante 3:** Raphael Mischiatti Souza - RM: 563567
+* Fernando Caires Silva - RM: 563415
+* Guilherme Martins Rezende - RM: 563500
+* Raphael Mischiatti Souza - RM: 563567
 
 ---
 
@@ -68,7 +68,6 @@ Formulário para realizar as atualizações dos componentes da missão. Nele, é
 * **Expo Router** (Roteamento baseado em arquivos)
 * **Context API** (Estado global da simulação)
 * **AsyncStorage** (Persistência local de dados)
-* **TypeScript** *(Se aplicável, apague esta linha caso tenham usado apenas JavaScript puro)*
 
 ---
 
