@@ -42,7 +42,7 @@ function TabsLayout() {
       <Tabs.Screen
         name="potencia"
         options={{
-          title: 'Potencia nave',
+          title: 'Potência nave',
           tabBarIcon: ({ size }) => (
             <Text style={{ fontSize: size || 24 }}>⚡</Text>
           ),

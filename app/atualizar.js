@@ -179,7 +179,7 @@ const styles = StyleSheet.create({
     color: "#333",
   },
   imagem: {
-    width: 250,
+    width: '100%',
     height: 250,
     alignSelf: "center",
     marginBottom: 20,

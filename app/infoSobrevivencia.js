@@ -63,7 +63,7 @@ const styles = StyleSheet.create({
         alignItems:'center',
     },
     containerInfo:{
-        marginTop:40,
+        marginTop:20,
         flexDirection:'row',
         flexWrap:'wrap',
         justifyContent:'center',
@@ -72,7 +72,7 @@ const styles = StyleSheet.create({
         marginTop: 20,
         padding: 4,          
         borderRadius: 14,
-        width:400,
+        width:370,
     },
     viewInfo:{
         flexDirection:'column',
